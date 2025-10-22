@@ -21,6 +21,7 @@
     justify-content: space-around;
     align-items: center;
     background-color: lightyellow;
+    padding: 20px;
 }
 .containers{
     display:flex;
@@ -28,12 +29,15 @@
     justify-content: space-around;
     align-items: center;
     padding: 20px;
-    width: 20%;
+    width: 200px;
+    height: 200px;
 }
 .containers div{
     border-width: 3px;
     border-radius: 8px;
     background-color: lightblue;
     padding: 20px;
-    width: 20%;
+    width: 200px;
+    height: 200px;
+
 }
