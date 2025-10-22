@@ -16,6 +16,7 @@
 }
 .heads{
     display: inline-flex;
+    flex-direction: row;
     justify-content: space-around;
     align-items: center;
     background-color: antiquewhite;
