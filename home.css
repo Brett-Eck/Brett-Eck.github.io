@@ -20,11 +20,16 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    background-color: antiquewhite;
+    background-color: yellow;
 }
-.heads div{
-    background-color: aliceblue;
-    border: 2px;
-    border-radius: 2px;
-    padding: 20px
+.containers{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.containers div{
+    border-width: 3px;
+    border-radius: 8px;
+    background-color: lightblue;
 }
