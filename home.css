@@ -44,3 +44,10 @@
     align-items:flex-start;
     text-align: center;
 }
+.section{
+    text-align: center;
+    color: darkblue;
+}
+h1{
+    text-align: center;
+}
