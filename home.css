@@ -30,7 +30,6 @@
     align-items:flex-start;
     padding: 20px;
     margin: 20px;
-    
 }
 .containers div{
     border-width: 3px;
@@ -51,7 +50,11 @@
 h1{
     text-align: center;
 }
-img{
+.img-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
     border-radius: 50%;
     width: 200px;
     height: 200px;
