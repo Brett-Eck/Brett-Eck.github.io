@@ -50,12 +50,18 @@
 h1{
     text-align: center;
 }
-.img-container{
+.img-container {
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 20px;
-    border-radius: 50%;
     width: 100px;
     height: 100px;
+    border-radius: 50%;
+    overflow: hidden; 
+}
+.img-container img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
 }
