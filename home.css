@@ -50,18 +50,7 @@
 h1{
     text-align: center;
 }
-.img-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 20px;
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    overflow: hidden; 
-}
-.img-container img {
-    width: 50%;
-    height: 50%;
-    object-fit: cover;
+.resume{
+    margin-left: 10%;
+    margin-right: 10%;
 }
