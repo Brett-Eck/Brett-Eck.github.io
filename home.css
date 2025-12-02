@@ -61,7 +61,7 @@ h1{
     overflow: hidden; 
 }
 .img-container img {
-    width: 100%;
-    height: auto;
+    width: 50%;
+    height: 50%;
     object-fit: cover;
 }
