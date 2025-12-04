@@ -1,19 +1,19 @@
 .skills{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color:crimson;
+    font-family: 'Lucida Console', 'Courier New', monospace;
+    color:black;
+    text-align: center;
 }
 .about{
-    font-family: 'Courier New', Courier, monospace;
-    color:darkblue;
+    font-family: 'Lucida Console', 'Courier New', monospace;
+    color:black;
+    text-align: center;
 }
 .projects{
     font-family: 'Lucida Console', 'Courier New', monospace;
-    color:darkgreen;
+    color:black;
+    text-align: center;
 }
-.contact{
-    font-family: 'Arial Black', Gadget, sans-serif;
-    color:darkred;
-}
+
 .heads{
     width: 100%;
     display: flex;
